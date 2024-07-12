@@ -12091,6 +12091,31 @@ dependencies = [
 ]
 
 [[package]]
+name = "wakatime"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "editor",
+ "gpui",
+ "indoc",
+ "language",
+ "menu",
+ "project",
+ "rope",
+ "schemars",
+ "serde",
+ "serde_json",
+ "settings",
+ "text",
+ "theme",
+ "tree-sitter-rust",
+ "tree-sitter-typescript",
+ "ui",
+ "util",
+ "workspace",
+]
+
+[[package]]
 name = "waker-fn"
 version = "1.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"

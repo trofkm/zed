@@ -113,6 +113,7 @@ members = [
     "crates/util",
     "crates/vcs_menu",
     "crates/vim",
+    "crates/wakatime",
     "crates/welcome",
     "crates/workspace",
     "crates/worktree",
